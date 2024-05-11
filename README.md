@@ -1,17 +1,4 @@
-### Hi there 👋
 
-<!--
-**ZeroFound/ZeroFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ###🔭 I’m currently working on Journalist
-- ###🌱 I’m currently learning Python,Javascript,Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ###😄 Pronouns: Man
-- ⚡ Fun fact: 
--->
-
+### ZeroFound U_U
+### FRONTEND DEVELOPER
+![Sunjinwoo](https://github.com/ZeroFound/ZeroFound/assets/151372134/c78b0ddc-2454-4319-875f-36f2992425b9)
