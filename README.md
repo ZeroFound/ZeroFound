@@ -2,4 +2,5 @@
 
 ### _Work As Journalist at RadarNusantara News Company🏢_
 ### _Front-End Junior🎨_ 
-### ![Sunjinwoo](https://github.com/ZeroFound/ZeroFound/assets/151372134/488d3cd6-1b08-4570-b267-34a38ef9d919)
+### <img src="https://github.com/ZeroFound/ZeroFound/assets/151372134/8bcde228-dd97-4ee3-80e3-42d585bdfe61" width=150% height=100%>
+
