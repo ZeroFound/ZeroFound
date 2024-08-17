@@ -1,2 +1,1 @@
-### _ZeroFound U_U_
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh0MnFoYmJxNHU0cXF1ZDB0c2Rsemdvdmh5NnU4dGRjNWRxYnk3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif
+### _ZeroFound U_U_###
