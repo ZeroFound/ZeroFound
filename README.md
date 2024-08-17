@@ -1,4 +1,2 @@
 ### _ZeroFound U_U_
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
-
-
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh0MnFoYmJxNHU0cXF1ZDB0c2Rsemdvdmh5NnU4dGRjNWRxYnk3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif
